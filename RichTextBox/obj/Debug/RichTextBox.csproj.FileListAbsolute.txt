@@ -1,0 +1,15 @@
+D:\Program\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe.config
+D:\Program\RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+D:\Program\RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csprojAssemblyReference.cache
+D:\Program\RichTextBox\RichTextBox\obj\Debug\MainWindow.g.cs
+D:\Program\RichTextBox\RichTextBox\obj\Debug\App.g.cs
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox_MarkupCompile.cache
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox_MarkupCompile.lref
+D:\Program\RichTextBox\RichTextBox\obj\Debug\MainWindow.baml
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.g.resources
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.cache
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.exe
+D:\Program\RichTextBox\RichTextBox\obj\Debug\RichTextBox.pdb
